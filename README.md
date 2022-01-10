@@ -1,2 +1,3 @@
-# gitlearn
-newbie
+# just learning git
+
+this is cool
